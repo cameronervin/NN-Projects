@@ -18,13 +18,15 @@ pip install -r requirements.txt
    - exposure	=      +/- 10\%
    - blur	   =      2.5px
 6. Export the data in YOLOv9 format
-7. You are now ready to use the cloned repository
    
-## Implementation Manual
-### `lab4_YOLOv9.ipynb`
-- creates 
+Note: Run `lab4_mediapipe_XGB.ipynb` before running `lab4_YOLOv9.ipynb`. This creates the other dataset necessary to create both YOLOv9 models.
 
+## Features and Usage
 ### `lab4_mediapipe_XGB.ipynb`
+- 
+
+### `lab4_YOLOv9.ipynb`
+- creates YOLOv9 models based on the base 
 
 
 ###  `helpers.py`
