@@ -20,7 +20,7 @@ pip install -r requirements.txt
    - blur	   =      2.5px
 6. Export the data in YOLOv9 format
    
-Note: Run `lab4_mediapipe_XGB.ipynb` before running `lab4_YOLOv9.ipynb`. This creates the other dataset necessary to create both YOLOv9 models.
+Note: Run `lab4_mediapipe_XGB.ipynb` before running `lab4_YOLOv9.ipynb`. This creates the other dataset necessary to create the second YOLOv9 model.
 
 ## Features and Usage
 ### `lab4_mediapipe_XGB.ipynb`
