@@ -1,4 +1,5 @@
 # CS 8321 Final Paper
+Note: For line by line explanation of code and implementation, see documentation within Jupyter Notebook and Python files
 ## Installation and Running
 1. Install anaconda
 2. Clone the repository and install the required packages:
@@ -67,5 +68,3 @@ Shows confusion matrices, both regular and normalized, from a specified folder.
 - Displays validation batch predictions, highlighting labels on images.
 #### `df(folder_path)` 
 - Reads a CSV file into a DataFrame from the specified folder.
-
-Note: For line by line explanation of code and implementation, see documentation within Jupyter Notebook and Python files
