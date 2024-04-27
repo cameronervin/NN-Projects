@@ -23,7 +23,9 @@ Note: Run `lab4_mediapipe_XGB.ipynb` before running `lab4_YOLOv9.ipynb`. This cr
 
 ## Features and Usage
 ### `lab4_mediapipe_XGB.ipynb`
-- 
+- Creates a new dataset based on the original hand image dataset with a 2D overlay of the MediaPipe Hand landmarks on top of each image. This dataset maintains the original splits from the original dataset.
+   - You must copy the `data.yaml` file over to this new dataset. Additionally, you must create an image subfolder for the images in each split and copy the labels over from the original dataset.
+- Creates a 
 
 ### `lab4_YOLOv9.ipynb`
 - creates YOLOv9 models based on the base 
