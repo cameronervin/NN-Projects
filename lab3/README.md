@@ -42,6 +42,8 @@ Hypothesis:
 
 Therefore, after examining the image that optimally excites our feature both through Microscope and our own optimization as well as finding which classes and individual images most activate our feature, we believe that our feature especially picks up on circular objects/ components in images.
 
+Analysis:
+
 Our visualizations and further analysis support our hypothesis. We have determined that our circuit is comprised of different curve detectors that create a pure, pose invariant circular object detecting feature with feature 8. When examining our most excitatory filters, we found that there are different families of filters that detect curves and circular centers, and ovals that could be circles. Additionally, our most inhibitory filters excluded curves with oval like features which were not actually circular. In conclusion, our visualizations support our hypothesis that our feature detects circular components in images.
 
 
