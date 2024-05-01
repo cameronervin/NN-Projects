@@ -9,6 +9,7 @@ The goal of this project is to explore the concept of 'circuits' within convolut
 We used a mini ImageNet dataset from Kaggle to evaluate our CNN model and to help visualize what the model was doing.
 
 We use the following Python/JupyterNotebook libraries in our work: 
+* `helpers.py`
 * TensorFlow and Keras to create our model architecture.
 * Scikit-learn for model evaluation and data processing.
 * Seaborn and Matplotlib for data visualization.
