@@ -8,7 +8,7 @@ The goal of this project was to research Generative Adversarial Networks (GANs) 
 
 I used the Stanford Dog image data set to train the generator and discriminator for this project.
 
-We use the following Python/JupyterNotebook libraries in our work: 
+I use the following Python/JupyterNotebook libraries in my work: 
 * TensorFlow and Keras to create our model architecture.
 * Seaborn and Matplotlib for data visualization.
 * Pillow for showing and loading images
@@ -16,8 +16,6 @@ We use the following Python/JupyterNotebook libraries in our work:
 
  
 ## Technical Approach
-
-To explore circuits and to begin visualizing CNN features and filters, we used TensorFlow's VGG19. Our additional steps in visualizing VGG19 are as follows:
 
 1. Load the dog image dataset
 2. Visualize several images from the original dataset using the `plot_images` function to compare our later generated images to 
