@@ -31,7 +31,7 @@ I use the following Python/JupyterNotebook libraries in my work:
  
 ## Conclusion
 
-Althought the generated 'dog' images are not very dog-like. One can see the rough visualization of a dog in the dog images. Had I trained the model for more epochs, the images would only become more dog-like.
+Although the generated 'dog' images are not very dog-like. One can see the rough visualization of a dog in the dog images. Had I trained the model for more epochs, the images would only become more dog-like.
 
 
 
