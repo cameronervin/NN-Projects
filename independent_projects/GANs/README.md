@@ -2,7 +2,7 @@
  
 ## About this Project
 
-The goal of this project was to research Generative Adversarial Networks (GANs) to get a better understandin of how they function and what their purpose is. After gaining some background knowledge on GANs, I wanted to implement vanilla GANs to generate images of dogs.
+The goal of this project was to research Generative Adversarial Networks (GANs) to get a better understanding of how they function and what their purpose is. After gaining some background knowledge on GANs, I wanted to implement vanilla GANs to generate images of dogs.
  
 ## Dataset & Dependencies
 
